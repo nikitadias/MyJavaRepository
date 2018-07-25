@@ -1,1 +1,3 @@
-Thisiis first line in file 1
+This is first line in file 1
+
+added another line in file 1

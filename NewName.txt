@@ -1,5 +1,0 @@
-This is first line in file 1
-
-added another line in file 1 
-
-change added to check git diff
